@@ -1,4 +1,4 @@
-![image info](Downloads/grupo_06.png)
+![Grupo6](https://github.com/easofiati/dhd_csf/blob/main/grupo_06.jpg)
 
 # Game Use&Ganhe
 
