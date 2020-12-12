@@ -1,4 +1,4 @@
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![image info](Downloads/grupo_06.png)
 
 # Game Use&Ganhe
 
